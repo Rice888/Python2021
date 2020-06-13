@@ -2,7 +2,7 @@
 '''
 @Author: your name
 @Date: 2020-06-10 12:34:02
-@LastEditTime: 2020-06-13 16:34:38
+@LastEditTime: 2020-06-13 17:31:49
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: /RiceProgram/python3/01.py
@@ -29,6 +29,7 @@ def main():
     turtle.pencolor("#513b8d")  # 颜色 rgb #3b9909
     turtle.seth(0)  # 方向
     drawSnake(10, 150, 8, pythonsize/2)
+
 
 
 main()
