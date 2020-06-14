@@ -1,3 +1,11 @@
+'''
+@Author: your name
+@Date: 2020-06-13 18:37:03
+@LastEditTime: 2020-06-14 10:41:50
+@LastEditors: Please set LastEditors
+@Description: In User Settings Edit
+@FilePath: /RiceProgram/python3/01-python/type.py
+'''
 # encoding: utf-8
 '''
 @Author: your name
