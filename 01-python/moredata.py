@@ -2,7 +2,7 @@
 '''
 @Author: your name
 @Date: 2020-06-16 11:30:13
-@LastEditTime: 2020-06-17 11:11:29
+@LastEditTime: 2020-06-17 11:12:59
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: /RiceProgram/python3/01-python/moredata.py
@@ -132,6 +132,6 @@ getN2()
 def getN3():
     while True:
         number = eval(input("Enter a positive number: "))
-        if x >= 0 : break
+        # if x >= 0 : break
 
 getN3()
