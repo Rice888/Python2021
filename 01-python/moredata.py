@@ -2,7 +2,7 @@
 '''
 @Author: your name
 @Date: 2020-06-16 11:30:13
-@LastEditTime: 2020-06-17 10:45:36
+@LastEditTime: 2020-06-17 11:11:29
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: /RiceProgram/python3/01-python/moredata.py
